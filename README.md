@@ -1,27 +1,9 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  BMI Calculator
-
-## Our Goal
-
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
-
-## What you will create
-
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
-
-## What you will learn
-
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+BMI Calculator is an app that calulates your body mass index. This app allows you to enter your weight and height to perform the calculation. It will also give a piece of health advice depending on the result.
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 56 14](https://github.com/sta5129/BMI-Calculator/assets/83985934/8b788ddc-0154-4f4d-ba0d-035673ae6076)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 56 46](https://github.com/sta5129/BMI-Calculator/assets/83985934/e3906132-4e50-4b90-8e6b-b406d41125b8)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 57 16](https://github.com/sta5129/BMI-Calculator/assets/83985934/43d40926-c5cd-4daf-95ea-34682549f084)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 57 31](https://github.com/sta5129/BMI-Calculator/assets/83985934/63b384bc-286f-4db8-9388-6220f0a3b659)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 57 36](https://github.com/sta5129/BMI-Calculator/assets/83985934/f9074856-970b-459a-89a5-3a3e27b2bcbf)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 57 42](https://github.com/sta5129/BMI-Calculator/assets/83985934/96844e1e-84fc-46d4-989f-379baf54f975)
+![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 17 57 45](https://github.com/sta5129/BMI-Calculator/assets/83985934/3d2a9f03-4014-40ae-9b0d-0db87abb5dac)
